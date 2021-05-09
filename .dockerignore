@@ -1,0 +1,7 @@
+.gitignore
+.dockerignore
+LICENSE
+README.md
+Makefile
+*.log
+.mypy_cache
